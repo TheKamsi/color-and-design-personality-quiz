@@ -4,11 +4,12 @@ body{
 }
 
 .class-container {
+    width: 600px;
+    margin: 100px auto 0 auto;
     display: flex;
     flex-direction: column;
     align-items: left;
     justify-content: center;
-    margin: 100px 100px 0 100px;
     padding: 10px 20px;
     background: #f79bd2; 
     border-radius: 25px;
@@ -43,6 +44,8 @@ button:hover{
 
 
 .direction-btn-container{
+    width: 600px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-around;
 }
