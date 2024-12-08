@@ -35,7 +35,10 @@ button{
 }
 
 button:hover{
-    border: 2px solid black;
+    background-color: #f5b301;
+    color: #1e2328;
+    border: none;
+    box-shadow: 1px 1px 5px gray;
 }
 
 
