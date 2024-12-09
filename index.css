@@ -29,8 +29,8 @@ input{
 button{
     margin: 10px 0;
     padding: 5px 20px;
-    border-radius: 5px;
-    border: 0.1px solid grey;
+    border-radius: 25px;
+    border: none;
     background: #056952;
     color: #fff;
 }
